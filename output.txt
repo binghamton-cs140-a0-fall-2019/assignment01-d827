@@ -1,0 +1,72 @@
+TESTS FOR Computer.java:
+CyberPower, 8-core 3.8 GHz, 16GB Memory, 4.0TB Solid State Drive, Price: $1500.00
+Asus, Intel i5, 8GB Memory, 512GB Solid State Drive, Price: $800.00
+Acer, AMD Ryzen 5, 8GB Memory, 2.0TB Hard Drive, Price: $750.00
+Dell, Intel i3, 4GB Memory, 768GB Hard Drive, Price: $300.00
+
+TESTS FOR DateAndPlaceOfBirth.java:
+Date and place of birth: 2000-05-03, Poughkeepsie, NY, USA
+Date and place of birth: 1965-04-01, Memphis, TN, USA
+Date and place of birth: 1984-01-02, New York, NY, USA
+Date and place of birth: 2000-05-03, London, UK
+Date and place of birth: 1989-05-03, Tokyo, Japan
+false
+false
+true
+true
+false
+false
+false
+false
+false
+true
+false
+false
+true
+false
+false
+false
+false
+false
+false
+false
+false
+false
+false
+false
+true
+true
+true
+true
+true
+false
+true
+true
+false
+false
+false
+false
+true
+false
+false
+true
+true
+true
+false
+true
+false
+false
+false
+false
+false
+true
+false
+false
+false
+true
+true
+true
+false
+true
+true
+false
