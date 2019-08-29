@@ -64,12 +64,12 @@ public class Person {
 	}
 
 	public String getPdob() {
-		pdobStr = placeDob.toString();
+		String pdobStr = placeDob.toString();
 		return pdobStr;
 	}
 
 	public String getAddr() {
-		addrStr = address.toString();
+		String addrStr = address.toString();
 		return addrStr;
 	}
 // TODO provide the getter methods for placeDob and address

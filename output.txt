@@ -70,3 +70,10 @@ false
 true
 true
 false
+
+TESTS FOR StreetUSAddress.java:
+123 Sesame Street
+Apt. 5B
+Muppetville, NY 10004
+321 Kermit Lane
+Muppeton, NJ 07001
