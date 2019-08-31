@@ -63,14 +63,12 @@ public class Person {
 
 	}
 
-	public String getPdob() {
-		String pdobStr = placeDob.toString();
-		return pdobStr;
+	public DateAndPlaceOfBirth getPdob() {
+		return placeDob;
 	}
 
-	public String getAddr() {
-		String addrStr = address.toString();
-		return addrStr;
+	public StreetUSAddress getAddr() {
+		return address;
 	}
 // TODO provide the getter methods for placeDob and address
 // TODO Override the public String toString() method that is similar to the
@@ -82,6 +80,6 @@ public class Person {
 // Binghamton, NY 13905
 	@Override
 	public String toString() {
-			return String.format("%s %s %s, \n%s \n%s", firstNames, lastNames, ssn, pdobStr, addrStr);
+			return String.format("%s %s %s, \n%s \n%s", firstNames, lastNames, ssn, placeDob.toString(), address.toString());
 	}
 }
