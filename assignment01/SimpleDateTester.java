@@ -20,7 +20,7 @@ public class SimpleDateTester {
 
 		try(var output =new PrintWriter(new FileOutputStream(
 			new File("output.txt"), true /* true means append to file */))) {
-				output.println("\nTESTS FOR Person.java:");
+				output.println("\nTESTS FOR SimpleDateTester.java:");
 
 		SimpleDate newdate_2 = SimpleDate.of(2000,5,3);
 

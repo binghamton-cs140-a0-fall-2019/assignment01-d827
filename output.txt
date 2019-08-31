@@ -1,8 +1,4 @@
-TESTS FOR Computer.java:
-CyberPower, 8-core 3.8 GHz, 16GB Memory, 4.0TB Solid State Drive, Price: $1500.00
-Asus, Intel i5, 8GB Memory, 512GB Solid State Drive, Price: $800.00
-Acer, AMD Ryzen 5, 8GB Memory, 2.0TB Hard Drive, Price: $750.00
-Dell, Intel i3, 4GB Memory, 768GB Hard Drive, Price: $300.00
+
 
 TESTS FOR DateAndPlaceOfBirth.java:
 Date and place of birth: 2000-05-03, Poughkeepsie, NY, USA
@@ -77,3 +73,29 @@ Apt. 5B
 Muppetville, NY 10004
 321 Kermit Lane
 Muppeton, NJ 07001
+
+TESTS FOR Person.java:
+John Smith 222334444,
+Date and place of birth: 1967-04-03, Binghamton, NY, USA
+999 Street Street
+Apt. 7C
+Chicago, IL 59922
+
+TESTS FOR ComputerOwnerTester.java:
+Computer List, Owner: Billy Johnson 777889999,
+Date and place of birth: 2001-02-06, Toronto, Canada
+583 Variable Street
+Apt. 1
+San Francisco, CA 92938
+Computers: [GenericPC, Processes, 2GB Memory, 120GB Hard Drive, Price: $50.00 , PCLand, Intel i7, 32GB Memory, 2.0TB Solid State Drive, Price: $1800.00 , PcVille, AMD Ryzen, 16GB Memory, 3.0TB Hard Drive, Price: $770.00 , Computer Company Inc., Intel i5, 8GB Memory, 800GB Solid State Drive, Price: $450.00 ]
+Computer List, Owner: Billy Johnson 777889999,
+Date and place of birth: 2001-02-06, Toronto, Canada
+583 Variable Street
+Apt. 1
+San Francisco, CA 92938
+Computers: [PCLand, Intel i7, 32GB Memory, 2.0TB Solid State Drive, Price: $1800.00 , PcVille, AMD Ryzen, 16GB Memory, 3.0TB Hard Drive, Price: $770.00 ]
+
+TESTS FOR SimpleDateTester.java:
+false
+true
+true
